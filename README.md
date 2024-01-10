@@ -1,12 +1,12 @@
 # Huffman-Text-Compression
 Huffman coding implementation to compress and decompress text files.
 
-#Introduction
+## Introduction
 The program is able to compress and decompress files.
 
 
 
-# How to use the program
+## How to use the program
 The program can be used to compress and decompress files by editing 
 the Huffman.java file.
 In the main method of the file, there are three strings which can be 
