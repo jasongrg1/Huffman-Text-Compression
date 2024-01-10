@@ -30,9 +30,13 @@ This will output a message saying "No file to be decompressed".
 Below are the some of the texts I used to test my code:
 
 https://www.gutenberg.org/ebooks/2265
+
 https://www.gutenberg.org/ebooks/15032
+
 https://www.gutenberg.org/ebooks/15632
 
 https://www.gutenberg.org/ebooks/2267
+
 https://www.gutenberg.org/ebooks/18179
+
 https://www.gutenberg.org/ebooks/7185
